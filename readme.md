@@ -18,6 +18,9 @@ gcc main.c ft_putchar.c rush0x.c
 ```
 * x = select rush file like `rush00.c` , `rush01.c` , `rush02.c`, `rush03.c` or `rush04.c`
 
+```
+./a.out
+```
   
 # Screenshot
 
